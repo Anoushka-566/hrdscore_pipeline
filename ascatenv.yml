@@ -1,0 +1,29 @@
+name: ascatenv
+
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pandas
+  - pyyaml
+
+  - samtools
+  - bcftools
+  - minimap2
+
+  - ascat
+  - cancerit-allelecount
+
+  - r-base=4.2
+  - r-data.table
+  - r-optparse
+
+  - bioconductor-genomicranges
+  - bioconductor-iranges
+  - bioconductor-s4vectors
+  - bioconductor-genomeinfodb
+
+  - zlib

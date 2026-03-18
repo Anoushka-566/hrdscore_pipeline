@@ -1,0 +1,10 @@
+tools:
+  samtools_env: ascatenv
+  ascat_env: ASCAT
+  scarhrd_env: scarHRD
+
+paths:
+  ascat_output: ascat_test_output.RData
+
+reference:
+  genome: GRCh38

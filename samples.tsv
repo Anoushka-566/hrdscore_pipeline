@@ -1,0 +1,2 @@
+sample_id	tumor_bam	normal_bam
+sample1	data/tumor_nochr.bam	data/normal_nochr.bam

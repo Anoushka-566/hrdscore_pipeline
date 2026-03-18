@@ -1,0 +1,22 @@
+name: scarhrd
+
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+
+  - r-base=4.2
+  - r-essentials
+  - r-devtools
+  - r-data.table
+  - r-optparse
+
+  - bioconductor-genomicranges
+  - bioconductor-iranges
+  - bioconductor-s4vectors
+  - bioconductor-genomeinfodb
