@@ -1,4 +1,4 @@
-name: ascatenv
+name: ascat_new
 
 channels:
   - conda-forge
@@ -9,6 +9,7 @@ dependencies:
   - python=3.10
   - pandas
   - pyyaml
+  - psutil
 
   - samtools
   - bcftools

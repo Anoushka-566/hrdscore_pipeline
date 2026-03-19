@@ -16,7 +16,7 @@ echo "Start time: $(date)"
 echo "===================================="
 
 source ~/miniconda3/etc/profile.d/conda.sh
-conda activate ascatenv
+conda activate ascat_new
 
 tumor=$1
 normal=$2

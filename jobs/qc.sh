@@ -19,7 +19,7 @@ echo "Start time: $(date)"
 echo "================================================="
 
 source ~/miniconda3/etc/profile.d/conda.sh
-conda activate ascatenv_test
+conda activate ascat_new
 
 echo "Conda environment:"
 conda info --envs
